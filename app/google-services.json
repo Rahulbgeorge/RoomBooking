@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "927746650599",
+    "firebase_url": "https://roombookingchrist.firebaseio.com",
+    "project_id": "roombookingchrist",
+    "storage_bucket": "roombookingchrist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927746650599:android:0a41baeb2c5c1dfb",
+        "android_client_info": {
+          "package_name": "com.example.rahulstudy.roombooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927746650599-8j1d8an74h666r4f29npqtu9ko4hkr6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahulstudy.roombooking",
+            "certificate_hash": "97d7f02255ab029fc8539906bac1373fac3adb81"
+          }
+        },
+        {
+          "client_id": "927746650599-1edgp2du2l1boo0pg5ah8pr111h4qmhp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "927746650599-1edgp2du2l1boo0pg5ah8pr111h4qmhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF7TvEgxf54mAYbUZfxEMQJXfbs3OqRpw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927746650599-1edgp2du2l1boo0pg5ah8pr111h4qmhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
