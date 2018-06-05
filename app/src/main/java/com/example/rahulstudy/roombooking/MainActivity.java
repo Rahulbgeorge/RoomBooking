@@ -205,11 +205,13 @@ public class MainActivity extends AppCompatActivity
                 }
             }
 
+            //this is what i am goinh to do for making a change
             @Override
             public void onCancelled(DatabaseError databaseError) {
 
             }
         });
+        //I kind of dont like where this is going
 
     }
 
